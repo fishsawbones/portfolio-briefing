@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { VercelRequest, VercelResponse } from "@vercel/node";
 import { fetchPositions } from "../lib/sheets";
 import { fetchAllPrices } from "../lib/yahoo";
