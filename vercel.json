@@ -7,7 +7,7 @@
   ],
   "functions": {
     "api/briefing.js": {
-      "includeFiles": "lib/**,node_modules/yahoo-finance2/**,node_modules/@anthropic-ai/**,node_modules/resend/**"
+      "includeFiles": "{lib/**,node_modules/**}"
     }
   }
 }
